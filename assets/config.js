@@ -1,1 +1,13 @@
-LyogS2hvYm9yIER1bml5YSDigJQgc2l0ZSBjb25maWd1cmF0aW9uLgogKiBBZFNlbnNlOiB0aGUgcHVibGlzaGVyIElEIGJlbG93IGlzIFJhbWluJ3MuIEFkIHVuaXRzIGFyZSBOT1QgZW5hYmxlZAogKiBieSBkZWZhdWx0IOKAlCBwYXN0ZSB5b3VyIGFkLXVuaXQgY29kZSB3aGVyZSB0aGUgY29tbWVudGVkIHBsYWNlaG9sZGVycwogKiBhcmUgaW4gdGhlIHRlbXBsYXRlcyAoYnVpbGRlci9idWlsZC5weSkgYWZ0ZXIgQWRTZW5zZSBhcHByb3ZlcyB0aGUgc2l0ZS4KICogYWRzLnR4dCBpcyBzZXJ2ZWQgZnJvbSB0aGUgbWRuYWltaXNsYW1iZC5naXRodWIuaW8gcm9vdCAoYWxyZWFkeSBsaXZlKS4KICovCnZhciBLSE9CT1JfRFVOSVlBX0NPTkZJRyA9IHsKICBBRFNFTlNFX1BVQkxJU0hFUl9JRDogImNhLXB1Yi04OTEyMTE3MTk5NTAwOTMyIiwKICAvLyBFeGFtcGxlIChmaWxsIGluIHJlYWwgc2xvdCBJRHMgYWZ0ZXIgYXBwcm92YWwpOgogIC8vIEFEX1NMT1RfSE9NRVBBR0VfVE9QOiAiMTIzNDU2Nzg5MCIsCiAgLy8gQURfU0xPVF9BUlRJQ0xFX01JRDogIjA5ODc2NTQzMjEiLAogIEFEU19FTkFCTEVEOiBmYWxzZQp9Owo=
+/* Khobor Duniya — site configuration.
+ * AdSense: the publisher ID below is Ramin's. Ad units are NOT enabled
+ * by default — paste your ad-unit code where the commented placeholders
+ * are in the templates (builder/build.py) after AdSense approves the site.
+ * ads.txt is served from the mdnaimislambd.github.io root (already live).
+ */
+var KHOBOR_DUNIYA_CONFIG = {
+  ADSENSE_PUBLISHER_ID: "ca-pub-8912117199500932",
+  // Example (fill in real slot IDs after approval):
+  // AD_SLOT_HOMEPAGE_TOP: "1234567890",
+  // AD_SLOT_ARTICLE_MID: "0987654321",
+  ADS_ENABLED: false
+};
