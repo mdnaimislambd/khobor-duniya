@@ -1,5 +1,16 @@
 [
  {
+  "source": "BBC",
+  "title_en": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+  "summary_en": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+  "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo",
+  "published": "2026-10-07T20:51:00+00:00",
+  "title_bn": "স্পেনীয় পেনশনার যার উচ্ছেদ দেশব্যাপী বিক্ষোভের জন্ম দিয়েছে, ইউনিয়ন বলেছে",
+  "summary_bn": "87 বছর বয়সী মারিকারমেন আবাস্কালকে সেপ্টেম্বরে 70 বছরেরও বেশি সময় ধরে তার অ্যাপার্টমেন্ট থেকে স্ট্রেচারে জোর করে সরানো হয়েছিল ।",
+  "category": "রাজনীতি",
+  "slug": "spanish-pensioner-whose-eviction-sparked-nationwide-pro-9581b561"
+ },
+ {
   "source": "The Guardian",
   "title_en": "Trump backs away from top aides who reportedly advised pro-Russia government",
   "summary_en": "President floats firing Chris LaCivita and James Blair over any ‘conflict’ after reports of work in Republika Srpska Donald Trump distanced himself from two top advisers on Wednesday, claiming he did not have “any idea who else they work for”, after it was reported they spent the weekend assisting a pro-Russia government in the Balkans. On Truth…",
@@ -9,6 +20,17 @@
   "summary_bn": "রাষ্ট্রপতি বুধবার রিপাব্লিকা শ্রপস্কা ডোনাল্ড ট্রাম্পের কাজের প্রতিবেদনের পরে ক্রিস ল্যাসিভিতা এবং জেমস ব্লেয়ারকে যে কোনও ‘দ্বন্দ্ব’ নিয়ে গুলি চালাচ্ছেন, দাবি করেছেন যে তারা \"অন্য কারও জন্য কাজ করে এমন কোনও ধারণা নেই\", তারা সপ্তাহান্তে বলকান অঞ্চলে একটি প্রো-রাশিয়া সরকারকে সহায়তা করার পরে । সত্যে...",
   "category": "রাজনীতি",
   "slug": "trump-backs-away-from-top-aides-who-reportedly-advised--3fa37c69"
+ },
+ {
+  "source": "BBC",
+  "title_en": "Chinese runner dropped by sponsor after riding bike during marathon",
+  "summary_en": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
+  "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o",
+  "published": "2026-10-07T20:29:31+00:00",
+  "title_bn": "ম্যারাথনের সময় বাইকে চড়ার পর স্পনসর দ্বারা চীনা রানারকে বাদ দেওয়া হয়েছে",
+  "summary_bn": "বার্লিন ম্যারাথনে অংশ নেওয়ার সময় সান ইউয়ানিয়ানকে দৃশ্যত অন্য ব্যক্তির বাইকের পিছনে চিত্রিত করা হয়েছিল ।",
+  "category": "বিশ্ব",
+  "slug": "chinese-runner-dropped-by-sponsor-after-riding-bike-dur-37aca0a7"
  },
  {
   "source": "Al Jazeera",
@@ -31,6 +53,17 @@
   "summary_bn": "কর্তৃপক্ষ বুধবার মিনেসোটার ব্লুমিংটনে মল অফ আমেরিকার উপর সম্ভাব্য সন্ত্রাসী হামলা বন্ধ করার জন্য এফবিআই কর্মকর্তারা একটি 18-বছর-বয়সী ব্যক্তিকে গ্রেপ্তার করেছে, কর্তৃপক্ষ বুধবার ঘোষণা করেছে । সন্ত্রাসের কাজ চালানোর জন্য আগ্নেয়াস্ত্র অর্জনের অভিযোগে ১৮ বছর বয়সী এক যুবককে গ্রেপ্তার করা হয়েছিল । শেখদুন...",
   "category": "বিশ্ব",
   "slug": "fbi-says-it-thwarted-terrorist-attack-in-minnesota-by-a-40177e5e"
+ },
+ {
+  "source": "BBC",
+  "title_en": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+  "summary_en": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+  "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo",
+  "published": "2026-10-07T20:27:03+00:00",
+  "title_bn": "হামাসের মারাত্মক হামলার তিন বছর পর ৭ অক্টোবরের হামলায় নিহতদের জন্য ইসরায়েলিরা শোক প্রকাশ করেছে",
+  "summary_bn": "হামাসের নেতৃত্বাধীন হামলার তৃতীয় বার্ষিকীতে ইস্রায়েলে স্মৃতিসৌধের ঘটনা ঘটেছে যা ধ্বংসাত্মক গাজা যুদ্ধের সূত্রপাত করেছিল ।",
+  "category": "বিশ্ব",
+  "slug": "israelis-mourn-7-october-attack-victims-three-years-aft-580ca371"
  },
  {
   "source": "The Guardian",
@@ -172,8 +205,8 @@
   "published": "2026-10-07T19:45:47+00:00",
   "category": "রাজনীতি",
   "slug": "houthi-forces-appear-to-make-slow-advance-in-south-west-331d32f0",
-  "title_bn": null,
-  "summary_bn": null
+  "title_bn": "হুথি বাহিনী দক্ষিণ-পশ্চিম ইয়েমেনে ধীরগতিতে অগ্রসর হচ্ছে বলে মনে হচ্ছে",
+  "summary_bn": "গ্রুপের যোদ্ধারা কায়রো থেকে বিমানটি অবতরণের আগে বিস্ফোরক মুহুর্তের সাথে অ্যাডেনের মূল বিমানবন্দরে আঘাত করেছিল । হুতি বাহিনী বুধবার দক্ষিণ-পশ্চিম ইয়েমেনে ধীরগতিতে অগ্রসর হচ্ছে বলে মনে হচ্ছে, তাইজ শহরের দিকে এগিয়ে আসছে এবং সৌদি সমর্থিত সরকারের প্রধান আন্তর্জাতিক কেন্দ্র অ্যাডেনের বিমানবন্দরের দিকে একটি ক্ষেপণাস্ত্র এবং বিস্ফোরক নিক্ষেপ করছে ।..."
  },
  {
   "source": "France 24",
@@ -183,8 +216,8 @@
   "published": "2026-10-07T19:45:24+00:00",
   "category": "রাজনীতি",
   "slug": "white-house-promotes-trump-tv-with-an-ai-altered-photo-9c9130e9",
-  "title_bn": null,
-  "summary_bn": null
+  "title_bn": "হোয়াইট হাউস AI-পরিবর্তিত ফটো দিয়ে 'ট্রাম্প টিভি' প্রচার করে",
+  "summary_bn": "হোয়াইট হাউস স্পষ্টতই রাষ্ট্রপতির নতুন স্ট্রিমিং চ্যানেল দেখছেন এমন যাত্রীদের একটি এআই-পরিবর্তিত ছবি ব্যবহার করে \"ট্রাম্প টিভি\" প্রচার করেছে । কিন্তু ছবিটি মূলত 2023 সালের ফেব্রুয়ারিতে অনলাইনে পোস্ট করা হয়েছিল, যাতে দেখা যাচ্ছে যাত্রীরা এনএফএল সুপার বাউল দেখছেন, একজন \"হিচ\" ছবিটি দেখছেন । মূল ছবিটি AI ব্যবহার করে পরিবর্তন করা হয়েছিল যাতে এটি প্রদর্শিত হয়..."
  },
  {
   "source": "Al Jazeera",
@@ -194,8 +227,8 @@
   "published": "2026-10-07T19:40:07+00:00",
   "category": "রাজনীতি",
   "slug": "indian-opposition-leader-rahul-gandhi-detained-over-ele-0c357753",
-  "title_bn": null,
-  "summary_bn": null
+  "title_bn": "ভারতের বিরোধীদলীয় নেতা রাহুল গান্ধীকে নির্বাচন প্রধানের প্রতিবাদে আটক করা হয়েছে",
+  "summary_bn": "নির্বাচনী বডি প্রধানের পদত্যাগের দাবিতে বিক্ষোভে রাহুল গান্ধীকে বেশ কয়েকবার গ্রেপ্তার করা হয়েছে ।"
  },
  {
   "source": "The Guardian",
@@ -205,8 +238,8 @@
   "published": "2026-10-07T19:38:24+00:00",
   "category": "রাজনীতি",
   "slug": "eu-drops-sponsorship-of-disinformation-conference-at-tr-39709a07",
-  "title_bn": null,
-  "summary_bn": null
+  "title_bn": "ইইউ ট্রাম্পের কর্মকর্তাদের অনুরোধে ভুল তথ্য সম্মেলনের স্পনসরশিপ বাদ দিয়েছে",
+  "summary_bn": "লিথুয়ানিয়া এবং কানাডারও প্রত্যাহারের জন্য চাপ দেওয়া হয়েছিল, এবং # Disinfo2026 এর কয়েকদিন আগে, লোগোগুলি ওয়েবসাইট থেকে মুছে ফেলা হয়েছিল ট্রাম্প প্রশাসন একাধিক দেশকে মিথ্যা তথ্য সম্পর্কিত একটি শীর্ষস্থানীয় ইউরোপীয় সম্মেলনের স্পনসরশিপ প্রত্যাহারের জন্য চাপ দিয়েছিল, কানাডা, লিথুয়ানিয়া এবং ইইউর কূটনৈতিক পরিষেবা পরবর্তীকালে তা করতে সম্মত হয়েছিল, অভিভাবক..."
  },
  {
   "source": "The Guardian",
@@ -216,8 +249,8 @@
   "published": "2026-10-07T19:32:50+00:00",
   "category": "বিশ্ব",
   "slug": "hegseth-tells-uss-lincoln-sailors-controversial-deploym-e1240fba",
-  "title_bn": null,
-  "summary_bn": null
+  "title_bn": "হেগসেথ ইউএসএস লিঙ্কন নাবিকদের বিতর্কিত মোতায়েনকে বলেছেন ‘সহজ ছিল না’",
+  "summary_bn": "মার্কিন প্রতিরক্ষামন্ত্রী পিট হেগসেথ বুধবার ইউএসএস আব্রাহাম লিংকনের সার্ভিস মেম্বারদের বলেন যে তাদের মোতায়েন \"সহজ ছিল না\" কারণ ক্যারিয়ারটি 260 দিনেরও বেশি সময় ধরে সমুদ্রে কাটানোর পরে ডক করার প্রস্তুতি নিচ্ছে..."
  },
  {
   "source": "BBC",
@@ -304,8 +337,8 @@
   "published": "2026-10-07T19:00:44+00:00",
   "category": "বিজ্ঞান",
   "slug": "canada-to-indefinitely-bar-mental-illness-as-sole-reaso-7049908f",
-  "title_bn": null,
-  "summary_bn": null
+  "title_bn": "আত্মহত্যা করার একমাত্র কারণ হিসাবে কানাডা অনির্দিষ্টকালের জন্য মানসিক অসুস্থতা বর্জন করবে",
+  "summary_bn": "আইনটি ক্ষমতাসীন লিবারেলদের দ্বারা ডক্টর-সহায়তাপ্রাপ্ত মৃত্যুর অ্যাক্সেসের উপর ক্রমবর্ধমান সংঘর্ষ মোকাবেলার একটি প্রচেষ্টা কানাডার ফেডারেল সরকার বুধবার বলেছে যে এটি এমন লোকদের প্রতিরোধ করার জন্য আইনকে অগ্রসর করবে যাদের একমাত্র স্বাস্থ্য শর্ত হল আত্মহত্যা অ্যাক্সেস থেকে মানসিক অসুস্থতা, দেশে একটি সংঘর্ষ মোকাবেলার জন্য ক্ষমতাসীন লিবারেল পার্টির একটি প্রচেষ্টা..."
  },
  {
   "source": "Al Jazeera",
@@ -327,7 +360,7 @@
   "title_bn": "স্পেনের বহিষ্কৃত পেনশনার যিনি আবাসন বিক্ষোভ শুরু করেছিলেন তিনি মারা গেছেন, মাদ্রিদ ভাড়াটে ইউনিয়ন বলেছে",
   "category": "রাজনীতি",
   "slug": "evicted-spanish-pensioner-who-sparked-housing-protests--1ff085f5",
-  "summary_bn": null
+  "summary_bn": "মাদ্রিদের একটি ভাড়াটে ইউনিয়ন জানিয়েছে, স্পেন জুড়ে আবাসন বিক্ষোভ শুরু করা অক্টোজেনারিয়ান মহিলা মেরিকারমেন আবাস্কাল মারা গেছেন । ইউনিয়নগুলি এখন ১১ নভেম্বর দেশব্যাপী সাধারণ ধর্মঘটের ডাক দিচ্ছে ।"
  },
  {
   "source": "Al Jazeera",
@@ -360,7 +393,7 @@
   "summary_bn": "কেনিয়ার সরকার বর্ডার স্ক্রিনিংয়ে ত্রুটি নিয়ে ক্রমবর্ধমান উদ্বেগের মধ্যে ইবোলা প্রস্তুতির প্রচেষ্টা জোরদার করেছে ।",
   "category": "বিজ্ঞান",
   "slug": "kenya-on-high-alert-amid-concern-over-screening-after-f-fdf08405",
-  "title_bn": null
+  "title_bn": "প্রথম ইবোলা মৃত্যুর পরে স্ক্রিনিং নিয়ে উদ্বেগের মধ্যে কেনিয়া উচ্চ সতর্কতায় রয়েছে"
  },
  {
   "source": "Al Jazeera",
@@ -393,7 +426,7 @@
   "title_bn": "এলএসডি – পাল্টা সংস্কৃতি থেকে ক্লিনিকাল ট্রায়াল পর্যন্ত",
   "category": "বিজ্ঞান",
   "slug": "lsd-from-counterculture-to-clinical-trials-e35fbcfc",
-  "summary_bn": null
+  "summary_bn": "মনস্তাত্ত্বিক গবেষণা থেকে শুরু করে পাল্টা সংস্কৃতি এবং গোপন সিআইএ মন-নিয়ন্ত্রণ পরীক্ষা পর্যন্ত, এলএসডি পরীক্ষাগারে ফিরে আসে ।"
  },
  {
   "source": "Al Jazeera",
@@ -426,7 +459,7 @@
   "summary_bn": "পোল্যান্ডের আরএমএফ এফএম রেডিও জানিয়েছে, আজ প্রায় ৪৬০টি স্কুল বিক্ষোভ অব্যাহত রেখেছে, গতকাল যারা ‘আন্দোলন দিবস’ -এ যোগ দিয়েছিল তাদের মধ্যে অর্ধেকেরও বেশি আমরা পোল্যান্ডের অসট্রোলাকায় একটি বৃত্তিমূলক স্কুলে ছুরি হামলার খবর পাচ্ছি, যার ফলে কমপক্ষে সাতজন গুরুতরভাবে আহত হয়েছে, যার মধ্যে দু 'জন গুরুতরভাবে আহত হয়েছে । শহরের মেয়র, পাওয়েল...",
   "category": "রাজনীতি",
   "slug": "minister-denies-police-brutality-as-student-protests-co-990c5358",
-  "title_bn": null
+  "title_bn": "ফ্রান্স – ইউরোপ জুড়ে ছাত্র বিক্ষোভ অব্যাহত থাকায় মন্ত্রী পুলিশের বর্বরতা অস্বীকার করেছেন, যেমনটি ঘটেছিল"
  },
  {
   "source": "Al Jazeera",
@@ -480,8 +513,8 @@
   "published": "2026-10-07T18:02:47+00:00",
   "category": "রাজনীতি",
   "slug": "woman-whose-eviction-sparked-spain-housing-protests-die-9bda51f3",
-  "title_bn": null,
-  "summary_bn": null
+  "title_bn": "যে মহিলার উচ্ছেদ স্পেনের আবাসন প্রতিবাদের জন্ম দিয়েছে 87 বছর বয়সে তিনি মারা যান",
+  "summary_bn": "মাদ্রিদে একটি স্ট্রেচারে তাকে উচ্ছেদ করার পরে মেরিকারমেন স্পেনের আবাসন সংকটের প্রতীক হয়ে ওঠে ।"
  },
  {
   "source": "NPR",
@@ -503,7 +536,7 @@
   "title_bn": "টরি ধনি ভোটারদের অগ্রাধিকার দেওয়ার অভিযোগে অভিযুক্ত কারণ বাদেনোক উত্তরাধিকার কর কাট পরিকল্পনা তৈরি করে",
   "category": "রাজনীতি",
   "slug": "tories-accused-of-prioritising-rich-voters-as-badenoch--ef7d6d20",
-  "summary_bn": null
+  "summary_bn": "পার্টি আশা করে যে ধনী মধ্যবিত্ত ভোটারদের উপর জয়লাভ করবে কারণ নেতা সম্মেলন বক্তৃতায় ‘অধিকারকে একত্রিত করার’ আহ্বান প্রত্যাখ্যান করেছেন কেমি বাদেনোক ঘোষণা করেছেন যে নির্বাচিত হলে কনজারভেটিভরা পারিবারিক বাড়ির উপর উত্তরাধিকার কর বাতিল করবে, সমালোচনাকে প্ররোচিত করে যে তিনি ধনীদের জন্য কর হ্রাসকে অগ্রাধিকার দিচ্ছেন । টরি নেতা আরও বলেছিলেন যে দম্পতিরা সক্ষম হবে..."
  },
  {
   "source": "BBC",
@@ -525,7 +558,7 @@
   "title_bn": "ইস্রায়েলিদের 'স্থিতিস্থাপকতা' যখন তারা প্রিয়জনদের হারানো এবং 'আমরা নিরাপদ থাকতে পারি' এই অনুভূতিতে শোক প্রকাশ করে",
   "category": "বিশ্ব",
   "slug": "resilience-of-israelis-as-they-mourn-the-loss-of-loved--d749f22b",
-  "summary_bn": null
+  "summary_bn": "জেরুজালেমের ইজরায়েল সাইকোট্রামা সেন্টারের METIV এর প্রতিষ্ঠাতা পরিচালক ডঃ ড্যানি ব্রোমকে স্বাগত জানাতে পেরে অ্যাঞ্জেলা ডিফলি আনন্দিত । ডাঃ ব্রোমের মতে, যেহেতু হলোকাস্টের পর থেকে একদিনে ইস্রায়েলি এবং ইহুদিরা ইহুদিদের সবচেয়ে বড় প্রাণহানির জন্য শোক করে চলেছে, তাদের সম্মিলিত সুরক্ষার মৌলিক বোধও ছিল..."
  },
  {
   "source": "The Guardian",
@@ -557,8 +590,8 @@
   "published": "2026-10-07T17:28:56+00:00",
   "category": "রাজনীতি",
   "slug": "over-100-arrested-in-belgium-student-protests-over-educ-d4a6e6ad",
-  "title_bn": null,
-  "summary_bn": null
+  "title_bn": "শিক্ষার ব্যয় নিয়ে বেলজিয়ামের ছাত্র বিক্ষোভে ১০০ জনেরও বেশি গ্রেপ্তার",
+  "summary_bn": "প্রতিবাদকারী শিক্ষার্থীরা দেশের ফরাসি ভাষাভাষী এলাকায় শিক্ষা সংস্কারের দাবি জানিয়েছে ।"
  },
  {
   "source": "France 24",
@@ -568,7 +601,7 @@
   "published": "2026-10-07T17:23:52+00:00",
   "category": "রাজনীতি",
   "slug": "france-summons-iranian-ambassador-over-disinformation-o-8f80548c",
-  "title_bn": null,
+  "title_bn": "ছাত্র বিক্ষোভ নিয়ে 'ভুল তথ্য' র অভিযোগে ইরানি রাষ্ট্রদূতকে তলব করেছে ফ্রান্স",
   "summary_bn": null
  },
  {
@@ -1613,39 +1646,6 @@
   "published": "2026-10-06T06:30:04+00:00",
   "category": "খেলা",
   "slug": "from-competing-for-food-to-a-gold-medal-the-stories-beh-b4f7fda7",
-  "title_bn": null,
-  "summary_bn": null
- },
- {
-  "source": "DW",
-  "title_en": "Germany news: Far-right AfD gets first house speaker in a German state parliament",
-  "summary_en": "For the first time since World War II, a far-right party has a house speaker in a German state parliament. And Germany's foreign minister has warned that the climate crisis could fuel extremism.",
-  "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497",
-  "published": "2026-10-06T06:21:00+00:00",
-  "category": "রাজনীতি",
-  "slug": "germany-news-far-right-afd-gets-first-house-speaker-in--91566bec",
-  "title_bn": null,
-  "summary_bn": null
- },
- {
-  "source": "The Guardian",
-  "title_en": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
-  "summary_en": "Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging that a new alliance of armed groups in Tigray has been forcibly recruiting men and boys to its ranks. Renewed conflict…",
-  "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
-  "published": "2026-10-06T05:00:02+00:00",
-  "category": "বিশ্ব",
-  "slug": "tigray-rebel-groups-forcibly-recruiting-boys-as-young-a-a5b4d0b3",
-  "title_bn": null,
-  "summary_bn": null
- },
- {
-  "source": "DW",
-  "title_en": "Merz, Macron seek tougher EU measures against unfair trade",
-  "summary_en": "Emmanuel Macron and Friedrich Merz have written to Ursula von der Leyen, calling for tougher EU mechanisms against unfair trade practices by other states. They name no names but seem to have China or the US in mind.",
-  "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905",
-  "published": "2026-10-05T17:23:00+00:00",
-  "category": "অর্থনীতি",
-  "slug": "merz-macron-seek-tougher-eu-measures-against-unfair-tra-882af672",
   "title_bn": null,
   "summary_bn": null
  }
