@@ -1,0 +1,68 @@
+name: Update Khobor Duniya
+
+# Twice-daily rebuild (UTC). Also rebuilds on template/builder changes and
+# can be triggered manually from the Actions tab.
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "builder/**"
+      - "assets/**"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write   # to commit the data/ cache (translations + news index)
+  pages: write      # to deploy the generated site
+  id-token: write   # required by deploy-pages
+
+concurrency:
+  group: khobor-duniya-update
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r builder/requirements.txt
+
+      - name: Build site
+        run: python builder/build.py
+        env:
+          # Optional repo secret. Raises the free MyMemory quota from
+          # ~5,000 to ~50,000 characters/day so new stories get translated
+          # faster. Without it the site still works; untranslated stories
+          # simply appear on later runs as quota frees up.
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
+
+      - name: Commit data cache
+        run: |
+          git config user.name "khobor-duniya-bot"
+          git config user.email "khobor-duniya-bot@users.noreply.github.com"
+          git add data/news.json data/translations.json
+          git diff --cached --quiet || (git commit -m "Auto-update news data $(date -u +%F-%H%M)" && git push)
+          # NOTE: data/ is intentionally NOT in the push paths-filter above,
+          # so this commit does not trigger another workflow run.
+
+      - uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
