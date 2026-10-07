@@ -12,8 +12,7 @@ Pipeline:
   4. Classify each item into a Bangla category with keyword rules.
   5. Write data/news.json and render the static site into site/.
 
-Legal model: headlines + short translated summaries + prominent links
-to the original articles. Full stories stay on the publishers' sites.
+Legal model: headlines + short translated summaries + prominent linksto the original articles. Full stories stay on the publishers' sites.
 """
 
 import hashlib
