@@ -620,3 +620,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# trigger: rebuild after Pages source switched to GitHub Actions (2026-10-08)
