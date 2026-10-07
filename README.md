@@ -1,1 +1,79 @@
-IyDgppbgpqzgprAg4Kam4KeB4Kao4Ka/4Kav4Ka84Ka+IChLaG9ib3IgRHVuaXlhKQoKQSBCYW5nbGEgaW50ZXJuYXRpb25hbCBuZXdzIGFnZ3JlZ2F0b3IuIFR3aWNlIGEgZGF5IGl0IGNvbGxlY3RzIHdvcmxkIG5ld3MKZnJvbSBmcmVlIFJTUyBmZWVkcywgbWFjaGluZS10cmFuc2xhdGVzIGhlYWRsaW5lcyArIHNob3J0IHN1bW1hcmllcyBpbnRvCkJlbmdhbGksIGFuZCBwdWJsaXNoZXMgYSBzdGF0aWMgc2l0ZSB2aWEgR2l0SHViIFBhZ2VzLgoKTGl2ZTogaHR0cHM6Ly9tZG5haW1pc2xhbWJkLmdpdGh1Yi5pby9raG9ib3ItZHVuaXlhLwoKIyMgSG93IGl0IHdvcmtzCgpgYnVpbGRlci9idWlsZC5weWAgcnVucyBvbiBhIHNjaGVkdWxlIChgLmdpdGh1Yi93b3JrZmxvd3MvdXBkYXRlLnltbGAsCmNyb24gYDAgKi8xMiAqICogKmAg4oCUIHR3aWNlIGRhaWx5IFVUQyk6CgoxLiAqKkZldGNoKiog4oCUIHB1bGxzIFJTUyBmZWVkcyBmcm9tIEJCQyBXb3JsZCwgQWwgSmF6ZWVyYSwgRFcsIEZyYW5jZSAyNCwKICAgVGhlIEd1YXJkaWFuLCBhbmQgTlBSIChhbGwgZnJlZSwgbm8gQVBJIGtleXMpLgoyLiAqKkRlZHVwZSoqIOKAlCBub3JtYWxpemVzIFVSTHMgYW5kIGtlZXBzIHRoZSBuZXdlc3QgfjE1MCBpdGVtcy4KMy4gKipUcmFuc2xhdGUqKiDigJQgc2VuZHMgZWFjaCBuZXcgaGVhZGxpbmUgKyBzaG9ydCBzdW1tYXJ5IHRvIHRoZSBmcmVlCiAgIFtNeU1lbW9yeSBBUEldKGh0dHBzOi8vbXltZW1vcnkudHJhbnNsYXRlZC5uZXQvKSAoYGVuYCDihpIgYGJuYCkuCiAgIFRyYW5zbGF0aW9ucyBhcmUgY2FjaGVkIGluIGBkYXRhL3RyYW5zbGF0aW9ucy5qc29uYCAoa2V5ZWQgYnkgU0hBLTEgb2YKICAgdGhlIEVuZ2xpc2ggdGV4dCksIHNvIGFuIGl0ZW0gaXMgKipuZXZlciB0cmFuc2xhdGVkIHR3aWNlKiogYW5kIHF1b3RhIGlzCiAgIG9ubHkgc3BlbnQgb24gZ2VudWluZWx5IG5ldyB0ZXh0Lgo0LiAqKkNsYXNzaWZ5Kiog4oCUIHNpbXBsZSBrZXl3b3JkIHJ1bGVzIHNvcnQgaXRlbXMgaW50byDgpqzgpr/gprbgp43gpqwgLyDgprDgpr7gppzgpqjgp4DgpqTgpr8gLwogICDgpoXgprDgp43gpqXgpqjgp4DgpqTgpr8gLyDgpqrgp43gprDgpq/gp4HgppXgp43gpqTgpr8gLyDgppbgp4fgprLgpr4gLyDgpqzgpr/gppzgp43gpp7gpr7gpqguCjUuICoqUmVuZGVyKiog4oCUIGdlbmVyYXRlcyBgaW5kZXguaHRtbGAsIHBlci1hcnRpY2xlIHBhZ2VzIChgbmV3cy8qLmh0bWxgLAogICBvbmx5IGZvciB0cmFuc2xhdGVkIGl0ZW1zIGZyb20gdGhlIGxhc3QgNyBkYXlzKSwgYHNpdGVtYXAueG1sYCwKICAgYHJvYm90cy50eHRgLCBhbmQgYDQwNC5odG1sYCBpbnRvIGBzaXRlL2AsIHdoaWNoIGlzIGRlcGxveWVkIHRvIFBhZ2VzLgogICBUaGUgdHJhbnNsYXRpb24gY2FjaGUgKyBgZGF0YS9uZXdzLmpzb25gIGFyZSBjb21taXR0ZWQgYmFjayBzbyB0aGUKICAgY2FjaGUgc3Vydml2ZXMgYmV0d2VlbiBydW5zLgoKUnVuIGl0IGxvY2FsbHkgYW55IHRpbWU6CgpgYGBiYXNoCnBpcCBpbnN0YWxsIC1yIGJ1aWxkZXIvcmVxdWlyZW1lbnRzLnR4dApweXRob24gYnVpbGRlci9idWlsZC5weSAgICAgICAgIyB3cml0ZXMgLi9zaXRlLwpgYGAKCiMjIExlZ2FsIG1vZGVsCgpUaGlzIGlzIGFuICoqYWdncmVnYXRvcioqLCBub3QgYSByZS1wdWJsaXNoZXI6CgotIE9ubHkgaGVhZGxpbmVzIGFuZCBzaG9ydCBzdW1tYXJpZXMgYXJlIHNob3duLCBtYWNoaW5lLXRyYW5zbGF0ZWQuCi0gRXZlcnkgY2FyZCBsaW5rcyBwcm9taW5lbnRseSB0byB0aGUgKipvcmlnaW5hbCBhcnRpY2xlKiogKCLgpq7gp4LgprIg4Ka44KaC4Kas4Ka+4KamIOCmquCmoeCmvOCngeCmqCIpCiAgYW5kIGV2ZXJ5IGFydGljbGUgcGFnZSBzZXRzIGA8bGluayByZWw9ImNhbm9uaWNhbCI+YCB0byB0aGUgb3JpZ2luYWwuCi0gVGhlIGZvb3RlciArIGFydGljbGUgcGFnZXMgY2FycnkgYSBCYW5nbGEgZGlzY2xhaW1lciB0aGF0IHRoZXNlIGFyZQogIGF1dG9tYXRpYyB0cmFuc2xhdGlvbnMvc3VtbWFyaWVzIGFuZCBmdWxsIHN0b3JpZXMgYmVsb25nIHRvIHRoZSBwdWJsaXNoZXJzLgoKRnVsbCBhcnRpY2xlIHRleHQgaXMgbmV2ZXIgY29waWVkLgoKIyMgVHJhbnNsYXRpb24gcXVvdGEKCk15TWVtb3J5J3MgZnJlZSB0aWVyIGFsbG93cyByb3VnaGx5ICoqNSwwMDAgY2hhcmFjdGVycy9kYXkgYW5vbnltb3VzbHkqKgphbmQgKip+NTAsMDAwL2RheSoqIHdoZW4gYSBjb250YWN0IGVtYWlsIGlzIHBhc3NlZC4gVGhlIGJ1aWxkZXIgY2FwcyBlYWNoCnJ1biBhY2NvcmRpbmdseSAobmV3ZXN0IHN0b3JpZXMgZmlyc3QpLiBJdGVtcyB0aGF0IG1pc3MgdGhlIHF1b3RhIHdpbmRvdwpzaW1wbHkgZ2V0IHRoZWlyIEJlbmdhbGkgdmVyc2lvbiBvbiBhIGxhdGVyIHJ1biDigJQgdGhlIGNhY2hlIG1ha2VzIHRoaXMKcHJvZ3Jlc3NpdmUgYW5kIGZyZWUuCgoqKlRvIHJhaXNlIHRoZSBxdW90YToqKiBhZGQgYSByZXBvc2l0b3J5IHNlY3JldCBuYW1lZCBgTVlNRU1PUllfRU1BSUxgCihTZXR0aW5ncyDihpIgU2VjcmV0cyBhbmQgdmFyaWFibGVzIOKGkiBBY3Rpb25zKSBjb250YWluaW5nIGFueSB2YWxpZCBjb250YWN0CmVtYWlsLiBUaGUgd29ya2Zsb3cgcGFzc2VzIGl0IGFzIGBkZWAgdG8gTXlNZW1vcnkuIE5vIHNpZ251cCBvciBrZXkgbmVlZGVkLgoKUm91Z2ggbWF0aDogb25lIHN0b3J5IOKJiCA0MDDigJM1MDAgY2hhcmFjdGVycyAodGl0bGUgKyBzdW1tYXJ5KS4KQW5vbnltb3VzIOKJiCAxMCBzdG9yaWVzL3J1biDiiYggMjAvZGF5IMK3IHdpdGggZW1haWwg4omIIDEwMC9ydW4g4omIIDIwMC9kYXkuCgojIyBBZGRpbmcgLyByZW1vdmluZyBmZWVkcwoKRWRpdCB0aGUgYEZFRURTYCBsaXN0IGF0IHRoZSB0b3Agb2YgYGJ1aWxkZXIvYnVpbGQucHlgCihgKHNvdXJjZSBuYW1lLCByc3MgdXJsKWAgcGFpcnMpIGFuZCBwdXNoIOKAlCB0aGUgYHB1c2hgIHRyaWdnZXIgcmVidWlsZHMKdGhlIHNpdGUgYXV0b21hdGljYWxseS4gKEFQJ3MgZmVlZCB3YXMgZHJvcHBlZCBvbiAyMDI2LTEwLTA4OiBDbG91ZGZsYXJlIDQwMy4pCgojIyBBZFNlbnNlCgpgYXNzZXRzL2NvbmZpZy5qc2AgaG9sZHMgdGhlIHB1Ymxpc2hlciBJRCBgY2EtcHViLTg5MTIxMTcxOTk1MDA5MzJgIGFuZCB0aGUKdGVtcGxhdGVzIGNvbnRhaW4gY29tbWVudGVkIGFkLXVuaXQgcGxhY2Vob2xkZXJzIOKAlCBubyBzbG90IElEcyBhcmUgaW52ZW50ZWQKaGVyZS4gYGFkcy50eHRgIGlzIGFscmVhZHkgc2VydmVkIGZyb20gdGhlIGBtZG5haW1pc2xhbWJkLmdpdGh1Yi5pb2Agcm9vdC4KCkhvbmVzdCBub3RlOiBBZFNlbnNlIGZyZXF1ZW50bHkgcmVqZWN0cyBmdWxseSBhdXRvLWdlbmVyYXRlZCBhZ2dyZWdhdG9yCnNpdGVzIHVuZGVyIGl0cyAibG93IHZhbHVlIGNvbnRlbnQiIHBvbGljeS4gQWRkaW5nIG9yaWdpbmFsIEJlbmdhbGkKd3JpdGluZyAoZWRpdG9yaWFscywgZXhwbGFpbmVycywgZGFpbHkgcm91bmQtdXBzKSBtYXRlcmlhbGx5IGltcHJvdmVzIHRoZQpvZGRzIG9mIGFwcHJvdmFsLgo=
+# খবর দুনিয়া (Khobor Duniya)
+
+A Bangla international news aggregator. Twice a day it collects world news
+from free RSS feeds, machine-translates headlines + short summaries into
+Bengali, and publishes a static site via GitHub Pages.
+
+Live: https://mdnaimislambd.github.io/khobor-duniya/
+
+## How it works
+
+`builder/build.py` runs on a schedule (`.github/workflows/update.yml`,
+cron `0 */12 * * *` — twice daily UTC):
+
+1. **Fetch** — pulls RSS feeds from BBC World, Al Jazeera, DW, France 24,
+   The Guardian, and NPR (all free, no API keys).
+2. **Dedupe** — normalizes URLs and keeps the newest ~150 items.
+3. **Translate** — sends each new headline + short summary to the free
+   [MyMemory API](https://mymemory.translated.net/) (`en` → `bn`).
+   Translations are cached in `data/translations.json` (keyed by SHA-1 of
+   the English text), so an item is **never translated twice** and quota is
+   only spent on genuinely new text.
+4. **Classify** — simple keyword rules sort items into বিশ্ব / রাজনীতি /
+   অর্থনীতি / প্রযুক্তি / খেলা / বিজ্ঞান.
+5. **Render** — generates `index.html`, per-article pages (`news/*.html`,
+   only for translated items from the last 7 days), `sitemap.xml`,
+   `robots.txt`, and `404.html` into `site/`, which is deployed to Pages.
+   The translation cache + `data/news.json` are committed back so the
+   cache survives between runs.
+
+Run it locally any time:
+
+```bash
+pip install -r builder/requirements.txt
+python builder/build.py        # writes ./site/
+```
+
+## Legal model
+
+This is an **aggregator**, not a re-publisher:
+
+- Only headlines and short summaries are shown, machine-translated.
+- Every card links prominently to the **original article** ("মূল সংবাদ পড়ুন")
+  and every article page sets `<link rel="canonical">` to the original.
+- The footer + article pages carry a Bangla disclaimer that these are
+  automatic translations/summaries and full stories belong to the publishers.
+
+Full article text is never copied.
+
+## Translation quota
+
+MyMemory's free tier allows roughly **5,000 characters/day anonymously**
+and **~50,000/day** when a contact email is passed. The builder caps each
+run accordingly (newest stories first). Items that miss the quota window
+simply get their Bengali version on a later run — the cache makes this
+progressive and free.
+
+**To raise the quota:** add a repository secret named `MYMEMORY_EMAIL`
+(Settings → Secrets and variables → Actions) containing any valid contact
+email. The workflow passes it as `de` to MyMemory. No signup or key needed.
+
+Rough math: one story ≈ 400–500 characters (title + summary).
+Anonymous ≈ 10 stories/run ≈ 20/day · with email ≈ 100/run ≈ 200/day.
+
+## Adding / removing feeds
+
+Edit the `FEEDS` list at the top of `builder/build.py`
+(`(source name, rss url)` pairs) and push — the `push` trigger rebuilds
+the site automatically. (AP's feed was dropped on 2026-10-08: Cloudflare 403.)
+
+## AdSense
+
+`assets/config.js` holds the publisher ID `ca-pub-8912117199500932` and the
+templates contain commented ad-unit placeholders — no slot IDs are invented
+here. `ads.txt` is already served from the `mdnaimislambd.github.io` root.
+
+Honest note: AdSense frequently rejects fully auto-generated aggregator
+sites under its "low value content" policy. Adding original Bengali
+writing (editorials, explainers, daily round-ups) materially improves the
+odds of approval.
